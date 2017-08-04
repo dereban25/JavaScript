@@ -6,11 +6,12 @@
     overflow: hidden;
 }
 #polosa {
-/*    background: pink;*/
+    /*    background: pink;*/
     width: 896px;
     position: relative;
-    left:0;
+    left: 0;
     transition: all ease 1s;
+}
 #polosa img {
     float: left;
 }
