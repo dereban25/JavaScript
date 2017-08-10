@@ -1,0 +1,14 @@
+#test{
+    width: 600px;
+    height: 100px;
+    background:yellow;
+    margin: 50px;
+    position: relative;
+}
+#test2{
+    width: 10px;
+    height: 100px;
+    background: blue;
+    left:290px;
+    position: absolute;
+}

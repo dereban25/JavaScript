@@ -2,8 +2,10 @@
   <dictionary name="dereban">
     <words>
       <w>oncontextmenu</w>
+      <w>onload</w>
       <w>onmouseenter</w>
       <w>onmouseleave</w>
+      <w>onwheel</w>
     </words>
   </dictionary>
 </component>

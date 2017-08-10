@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#menu{
+    width: 250px;
+    height: 100vh;
+    background: black;
+    position: fixed;
+    left: -230px;
+    top: 0;
+    transition: all ease 1s;
+}
